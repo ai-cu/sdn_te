@@ -15,3 +15,5 @@ Use the link above and upload the 'nodes.txt', 'demand.txt' and 'topology.txt' f
 
 You can also upload any of the larger topologies that we generated for the extra credit section as long as you either change the 
 file name references in code where we designated via comments, or renamed the files to names above. 
+
+All the generated files are in the generated_networks folder and the script generating them is in network_gen.py
